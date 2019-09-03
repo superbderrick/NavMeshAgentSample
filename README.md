@@ -1,4 +1,3 @@
-# Deep Learning study repository
+# KotlinGraphic
 
-- Just study with Prof.Sungkim class
-  https://hunkim.github.io/ml/
+- Study for Basic Graphic 
