@@ -1,3 +1,3 @@
-# KotlinGraphic
+# NavMeshAgentSample
 
-- Study for Basic Graphic 
+- NavMeshAgentSample sample codes
