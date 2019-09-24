@@ -1,3 +1,3 @@
 # NavMeshAgentSample
 
-- NavMeshAgentSample sample codes
+- NavMeshAgentSample sample code
